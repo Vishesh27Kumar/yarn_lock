@@ -1,6 +1,12 @@
 # frozen_string_literal: true
 
 require_relative "lib/yarn_lock_parser/version"
+    end
+%     results(k,2)=round(age);
+    % Gender Female - 1, Male - 0
+    if isfield(Xray_info,'PatientSex')
+        if strcmp(Xray_info.PatientSex,'M')
+            gender                     = 0;
 
 Gem::Specification.new do |spec|
   spec.name = "yarn_lock_parser"
