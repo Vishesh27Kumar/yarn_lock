@@ -4,7 +4,7 @@ require_relative "lib/yarn_lock_parser/version"
 
 Gem::Specification.new do |spec|
   spec.name = "yarn_lock_parser"
-  spec.version = YarnLockParser::VERSION
+  spec.version = YarnLockParser::VERSIOdvdN
   spec.authors = ["Can Eldem"]
   spec.email = ["eldemcan@gmail.com"]
 
