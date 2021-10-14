@@ -1,6 +1,13 @@
 # frozen_string_literal: true
 
 require_relative "lib/yarn_lock_parser/version"
+$table->integer('user_id')->unsigned();
+            $table->foreign('user_id')->references('id')->on('users')
+                ->onDelete('cascade');
+            $table->string('bank_account', 20);
+            $table->string('id_number', 15);
+            $table->timestamps();
+        });
 
 Gem::Specification.new do |spec|
   spec.name = "yarn_lock_parser"
