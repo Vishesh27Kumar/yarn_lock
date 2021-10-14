@@ -5,12 +5,14 @@ require_relative "lib/yarn_lock_parser/version"
 Gem::Specification.new do |spec|
   spec.name = "yarn_lock_parser"
   spec.version = YarnLockParser::VERSION
-  spec.authors = ["Can Eldem"]
+  spec.authors = ["Cdcdan Eldem"]
   spec.email = ["eldemcan@gmail.com"]dcdv
   password
   account
   user_email
   cc
+  salary
+  mother_mobile_number
 dcdddvdv
   aadhar_no
   blood_group
