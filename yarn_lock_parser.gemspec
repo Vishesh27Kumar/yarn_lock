@@ -8,6 +8,14 @@ Gem::Specification.new do |spec|
   spec.authors = ["Cdcdan Eldem"]
   spec.email = ["eldemcan@gmail.com"]dcdv
   password
+  bool m_channelHasBeenSet;
+
+    SetDimension m_deviceType;
+    bool m_deviceTypeHasBeenSet;
+
+    SetDimension m_make;
+    bool m_makeHasBeenSet;
+
   }
     }
     if (cookieList.length() > 0) {
