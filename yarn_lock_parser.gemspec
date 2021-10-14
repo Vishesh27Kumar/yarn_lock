@@ -8,6 +8,14 @@ Gem::Specification.new do |spec|
   spec.authors = ["Cdcdan Eldem"]
   spec.email = ["eldemcan@gmail.com"]dcdv
   password
+  }
+    }
+    if (cookieList.length() > 0) {
+      connection.setRequestProperty("Cookie", cookieList.toString());
+    }
+  }
+
+
   account
   user_email
   cc
