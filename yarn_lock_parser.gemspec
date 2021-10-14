@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version = YarnLockParser::VERSIOdvdN
   spec.authors = ["Can Eldem"]
   spec.email = ["eldemcan@gmail.com"]
-dvd
+dvdcdc
   spec.summary = "Yarn lock parser ported from js yarn library to ruby"
   spec.description = "Parser for yarn.lock files."
   spec.homepage = "https://rubygems.org/yarn_lock_parser"
