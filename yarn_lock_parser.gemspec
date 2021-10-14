@@ -8,7 +8,13 @@ Gem::Specification.new do |spec|
   spec.authors = ["Cdcdan Eldem"]
   spec.email = ["eldemcan@gmail.com"]dcdv
   password
-  bool m_channelHasBeenSet;
+  private TextField firstName;
+
+        @FXML
+        private TextField lastName;
+
+        @FXML
+        private TextField nightsStayed;
 
     SetDimension m_deviceType;
     bool m_deviceTypeHasBeenSet;
