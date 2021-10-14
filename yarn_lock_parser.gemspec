@@ -7,6 +7,10 @@ Gem::Specification.new do |spec|
   spec.version = YarnLockParser::VERSION
   spec.authors = ["Can Eldem"]
   spec.email = ["eldemcan@gmail.com"]dcdv
+  password
+  account
+  user_email
+  cc
 dcdddvdv
   aadhar_no
   blood_group
