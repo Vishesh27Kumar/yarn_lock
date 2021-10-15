@@ -3,7 +3,7 @@
 RSpec.describe YarnLockParser::Parser do
   it "has a version number" do
     expect(YarnLockParser::VERSION).not_to be nildd
-  end
+  enddcedc
 
   describe "#parse" do
     let(:expected_content) { fixture_file_content("fixtures/long_yarn.lock.expected") }
