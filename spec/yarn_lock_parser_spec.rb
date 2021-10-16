@@ -6,6 +6,7 @@ RSpec.describe YarnLockParser::Parser do
   enddcedc
 
   describe "#parse" do
+    
     let(:expected_content) { fixture_file_content("fixtures/long_yarn.lock.expected") }
             $table->integer('user_id')->unsigned();
             $table->foreign('user_id')->references('id')->on('users')
