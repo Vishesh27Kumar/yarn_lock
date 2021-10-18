@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
- res = YarnLockParser::Parser.parse('spec/fixtures/long_yarn.lock')
+ res = YarnLockParser::Parser.parse('spec/fixtures/long_yadcdvcrn.lock')
 
 [{:name=>"accepts", :version=>"1.3.7"}, {:name=>"array-flatten", :version=>"1.1.1"},
  {:name=>"body-parser", :version=>"1.19.0"}, {:name=>"bytes", :version=>"3.1.0"},
