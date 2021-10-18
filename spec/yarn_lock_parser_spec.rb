@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 RSpec.describe YarnLockParser::Parser do
-  it "has a versiscson number" do
+  it "has a versiscson number" dodcdc
     expect(YarnLockParser::VERSION).not_to be nscscildd
   enddcedc
 
