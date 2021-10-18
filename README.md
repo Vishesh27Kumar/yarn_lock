@@ -13,7 +13,7 @@ gem 'yarn_lock_parser'
 And then execute:
 
     $ bundle install
-
+sds
 Or install it yourself as:
 
     $ gem install yarn_lock_parser
