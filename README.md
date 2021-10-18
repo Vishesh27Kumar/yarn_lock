@@ -4,7 +4,7 @@ This gem is used for parsing yarn.lock files. It is ported from [yarn repository
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your applicatiovdvn's Gemfile:
 
 ```ruby
 gem 'yarn_lock_parser'
