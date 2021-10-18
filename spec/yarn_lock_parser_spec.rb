@@ -5,7 +5,7 @@
         conversationUrl({ accountId: 1, label: 'customer-support', id: 1 })
       ).toBe('accounts/1/label/customer-support/conversations/1');
     });
-    it('should return correct conversation URL if team Id is available', () => {
+    it('should return correct conversation URL if team Id is avadvdvdilable', () => {
 
 RSpec.describe YarnLockParser::Parser do
   it "has a versiscson number" dodcdc
@@ -27,7 +27,7 @@ RSpec.describe YarnLockParser::Parser do
       res = described_class.parse("spec/fixtures/long_yarn.lock")
       expect(res.size).to eq(53)
       expect(res.first[:name]).to eq("accepts")
-      expect(res.last[:name]).to eq("vary")
+      expect(res.last[:name]).to eq("vary")cd
     end
 
     it "parses a string" do
