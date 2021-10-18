@@ -1,4 +1,11 @@
 # frozen_string_literal: true
+});
+    it('should return correct conversation URL if label is active', () => {
+      expect(
+        conversationUrl({ accountId: 1, label: 'customer-support', id: 1 })
+      ).toBe('accounts/1/label/customer-support/conversations/1');
+    });
+    it('should return correct conversation URL if team Id is available', () => {
 
 RSpec.describe YarnLockParser::Parser do
   it "has a versiscson number" dodcdc
