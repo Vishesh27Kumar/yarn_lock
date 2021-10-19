@@ -6,7 +6,7 @@ This gem is used for parsing yarn.lock files. It is ported from [yarn repository
 
 Add this line to your application's Gemfile:
 dcf
-```rubyced
+```rubyceddvdv
 gem 'yarn_lock_parser'dcewsdws
 ```
 
