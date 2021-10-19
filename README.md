@@ -8,7 +8,7 @@ Add this line to your application's Gemfile:
 dcf
 ```rubyceddvdv
 gem 'yarn_lock_parser'dcewsdws
-```
+```ddv
 
 And then execute:
 
