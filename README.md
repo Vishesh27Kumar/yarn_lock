@@ -13,7 +13,7 @@ gem 'yarn_lock_parser'dce
 And then execute:
 
     $ bundle install
-
+dvdv
 Or install it yourself as:
 
     $ gem install yarn_lock_parser
