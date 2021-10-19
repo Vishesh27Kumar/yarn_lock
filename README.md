@@ -5,7 +5,7 @@ This gem is used for parsing yarn.lock files. It is ported from [yarn repository
 ## Installationdvdvdd
 
 Add this line to your application's Gemfile:
-
+dcf
 ```rubyced
 gem 'yarn_lock_parser'dce
 ```
