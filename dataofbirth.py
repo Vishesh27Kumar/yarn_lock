@@ -5,3 +5,4 @@
               if($_patient->gender) echo 'M' ;else echo 'F'; echo '</td>'.
               '<td class="hidden-print">'.$actions.'</td>'.
             '</tr>';
+wdw
